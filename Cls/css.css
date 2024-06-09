@@ -1,0 +1,21 @@
+.Dash_height{
+	height: 30vh;
+}
+
+.dt-info , .dt-search , .dt-length{
+background-color: white;
+padding: 5px;
+border-radius: 3px;
+}
+
+#fingerCss a i,#fingerCss img{
+	height: 100px;
+	width: auto;
+	border-color: red;
+}
+
+
+#imagediv img {
+	width: 100%;
+	height: 300px;
+}
